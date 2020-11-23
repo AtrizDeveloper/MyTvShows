@@ -8,10 +8,15 @@
 import XCTest
 @testable import MyTvShows
 
-class MyTvShowsTests: XCTestCase {
+class MyTvShowsTests: XCTestCase
+{
+    
+    func testTable()
+    {
+    }
 
-    override func setUpWithError() throws {
-        // Put setup code here. This method is called before the invocation of each test method in the class.
+    override func setUpWithError() throws
+    {
     }
 
     override func tearDownWithError() throws {
