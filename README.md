@@ -20,4 +20,9 @@ La selección fue simple, Swift prácticamente te induce a utilizar MVC con aire
  - Estructura: Revisaría mis recurrencias, minimizar el código donde se pueda, por ejemplo con los alerts que solicitaron para esta prueba, creo que puedo optimizar eso para no andar definiendo a diestra y siniestra nuevos alerts.
 
 ## ¿Cuáles fueron los mayores problemas que encontraste en el desarrollo de la práctica y cómo los resolviste?
-Fue la primera vez que implementé pruebas unitarias, desconocía su estructura, su funcionalidad y su maravillosa implementación, me siento como cavernicola descubriendo el fuego. Me llevó un rato implementarlas, sin embargo la documentación en internet es vasta, considero que la mejor documentación está en ingles debido al auge que tiene en el extranjero. Todo lo que sé de programación tanto en Android como en iOS, me lo enseñó internet y la práctica diaria.
+Generalmente, este tipo de servicios no es muy complejo, por lo que la parte activa del proyecto, no se me hizo problemática.
+En particular las pruebas unitarias, debido a mis actividades laborales actuales, no me fue posible terminar esa sección de análisis, sin embargo, no voy a dejar el proyecto así, eventualmente, subiré a este repositorio las pruebas aunque no se consideren en mi evaluación.
+
+Agredezco la oportunidad.
+
+Saludos
